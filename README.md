@@ -1,5 +1,5 @@
-<h1 align="center">📄 Flight Search App</h1>
-
+<h1 align="center">&#x2708 Flight Search App</h1>
+U+2708
 Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la Unidad 6: Persistencia de datos.
 
 ## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
