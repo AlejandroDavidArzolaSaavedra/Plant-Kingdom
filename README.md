@@ -1,5 +1,5 @@
 <h1 align="center">🌱 Plant Kingdom App</h1>
-U+2708
+
 Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la Unidad 6: Persistencia de datos.
 
 ## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
@@ -29,7 +29,9 @@ Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar 
 
 ## 📱 Vista de la App
 <ul align="center">		
-  <img  style="width:15rem" src="https://i.imgur.com/kB0c0FU.png"><br>
+  <img  style="width:15rem" src="https://i.imgur.com/qZuqTFq.png">
+  <img  style="width:15rem" src="https://i.imgur.com/ZKY3YXx.png">
+  <img  style="width:15rem" src="https://i.imgur.com/ggjSPXL.png">
 </ul>
 
 ## 🎮 Ejecución de la Aplicación
