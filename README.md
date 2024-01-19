@@ -39,8 +39,7 @@ Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar 
 
 ## 🎮 Ejecución de la Aplicación
 Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:<br>
-
-<img align="left" width="180" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/99e4704f-288b-4d9d-9f84-d85e5eb76967"></a>
+<img align="left" width="120" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/fe6c245b-a191-4f15-a3e8-92ccf6846893">
 1. Abre tu proyecto en Android Studio.
 
 2. Verifica que todas las dependencias estén correctamente configuradas.
@@ -55,7 +54,9 @@ Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo 
 
 
 ## 📄 Compilación del Informe
-Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
+Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:<br>
+
+<img align="left" width="180" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/99e4704f-288b-4d9d-9f84-d85e5eb76967">
 
 1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
@@ -65,9 +66,6 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 
 4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
 
-5. Overleaf se encargará de compilar automáticamente el documento LaTeX y generará el archivo PDF correspondiente.
-
-6. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
 
 ## 🤝 Contribuciones
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/673427a5-121a-4c77-bd0f-454e7dee2f74">
