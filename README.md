@@ -29,9 +29,9 @@ Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar 
 
 ## 📱 Vista de la App
 <ul align="center">		
-  <img  style="width:15rem" src="https://i.imgur.com/qZuqTFq.png">
-  <img  style="width:15rem" src="https://i.imgur.com/ZKY3YXx.png">
-  <img  style="width:15rem" src="https://i.imgur.com/ggjSPXL.png">
+  <img  width="200px" src="https://i.imgur.com/qZuqTFq.png">
+  <img  width="200px" src="https://i.imgur.com/ZKY3YXx.png">
+  <img  width="200px" src="https://i.imgur.com/ggjSPXL.png">
 </ul>
 
 ## 🎮 Ejecución de la Aplicación
