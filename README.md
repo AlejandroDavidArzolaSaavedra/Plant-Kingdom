@@ -38,8 +38,9 @@ Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar 
 </ul>
 
 ## 🎮 Ejecución de la Aplicación
-Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:
+Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:<br>
 
+<img align="left" width="180" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/99e4704f-288b-4d9d-9f84-d85e5eb76967"></a>
 1. Abre tu proyecto en Android Studio.
 
 2. Verifica que todas las dependencias estén correctamente configuradas.
@@ -69,7 +70,7 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 6. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
 
 ## 🤝 Contribuciones
-<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/673427a5-121a-4c77-bd0f-454e7dee2f74"></a>
+<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/673427a5-121a-4c77-bd0f-454e7dee2f74">
 Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.<br><br>
 
 Por favor, contácteme si tiene preguntas o comentarios sobre el informe.
