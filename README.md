@@ -1,4 +1,7 @@
 <h1 align="center">🌱 Plant Kingdom App</h1>
+<p align="center">
+  <img width="400px"src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/1ac040c4-dc7d-4886-8b71-908b585f1b24">
+</p>
 
 Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la Unidad 6: Persistencia de datos.
 
