@@ -71,4 +71,4 @@ If you wish to compile the report in Overleaf instead of on your local machine, 
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/673427a5-121a-4c77-bd0f-454e7dee2f74">
 If you would like to contribute to this report or make improvements, we invite you to do so. You can open issues or pull requests to collaborate on the report's development.<br><br>
 
-Please feel free to contact me if you have any questions or comments about the report. 🚀
+Please feel free to contact me if you have any questions or comments about the report.🚀
