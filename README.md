@@ -1,74 +1,74 @@
-<h1 align="center">🌱 Plant Kingdom App</h1>
+<h1 align="center">🌱 Plant Kingdom</h1>
 <p align="center">
   <img width="400px"src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/1ac040c4-dc7d-4886-8b71-908b585f1b24">
 </p>
 
-Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la Unidad 6: Persistencia de datos.
+This practice focuses on the Basics of Android with Compose regarding data persistence, specifically addressing Unit 6: Data Persistence.
 
-## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
-Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
+## 🙆👨‍💻 Author (Ctrl + Click to view profiles)
+This report has been prepared by Group 13 of the Native Mobile Applications Programming (PAMN) course.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
   
-## 📑 Contenido del Informe
-Los temas clave que se abordarán son los siguientes:
+## 📑 Report Contents
+The key topics to be addressed are as follows:
 
-- **🚀 Introducción a SQL:**
-  En esta sección, se proporciona una **introducción a los conceptos fundamentales de SQL (Structured Query Language)**. Se exploran las bases de datos relacionales y cómo SQL se utiliza para interactuar con ellas. Se aborda conceptos clave como consultas, inserciones, actualizaciones y eliminaciones de datos.
+- **🚀 Introduction to SQL:**
+  In this section, an **introduction to the fundamental concepts of SQL (Structured Query Language)** is provided. Relational databases and how SQL is used to interact with them are explored. Key concepts such as querying, inserting, updating, and deleting data are addressed.
+  
+- **⚙️ SQL Environment Setup:**
+  Here, the **process of setting up the work environment to use SQL** is detailed. This includes installing a database management system (DBMS) and creating a database to practice SQL commands.
 
-- **⚙️ Configuración del Entorno SQL:**
-  Aquí, se detalla el **proceso de configuración del entorno de trabajo para utilizar SQL**. Esto incluye la instalación de un sistema de gestión de bases de datos (DBMS) y la creación de una base de datos para practicar los comandos SQL.
+- **🔍 Data Queries and Manipulation:**
+  In this section, you learn to **perform effective queries in SQL to retrieve specific data from a database**. Operations such as filtering, sorting, and grouping data are addressed.
 
-- **🔍 Consultas y Manipulación de Datos:**
-  En esta sección, se aprende a **realizar consultas efectivas en SQL para recuperar datos específicos de una base de datos**. Se aborda operaciones como filtrado, ordenación y agrupación de datos.
+- **💾 Data Persistence with Room:**
+  It explores how to use the **Room library to achieve data persistence in Android applications**. Room simplifies the creation and use of relational databases in application development.
 
-- **💾 Persistencia de Datos con Room:**
-  Se explora para saber cómo usar la biblioteca de **Room para lograr la persistencia de datos en aplicaciones Android**. Room simplifica la creación y el uso de bases de datos relacionales en el desarrollo de aplicaciones.
+- **🔐 Data Storage and Access with DataStore:**
+  You learn to **store data and access it using keys using DataStore**. It focuses on using Preferences Datastore to manage simple key-value pair data in Android applications.
 
-- **🔐 Almacenamiento y Acceso de Datos con DataStore:**
-  Se aprende a **almacenar datos y acceder a ellos mediante claves utilizando DataStore**. Se enfoca en el uso de Preferences Datastore para gestionar datos simples de pares clave-valor en aplicaciones Android.
+This learning path provides essential skills to **use SQL, implement data persistence with Room, and manage data with DataStore in Android applications**.
 
-Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar SQL, implementar persistencia de datos con Room y gestionar datos con DataStore en aplicaciones Android**.
-
-## 📱 Vista de la App
+## 📱 App Preview
 <ul align="center">		
   <img  width="200px" src="https://i.imgur.com/qZuqTFq.png">
   <img  width="200px" src="https://i.imgur.com/ZKY3YXx.png">
   <img  width="200px" src="https://i.imgur.com/ggjSPXL.png">
 </ul>
 
-## 🎮 Ejecución de la Aplicación
-Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:<br>
+## 🎮 Running the Application
+Additionally, to compile and run your Android application locally, follow these steps using Android Studio:<br>
 <img align="left" width="120" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/fe6c245b-a191-4f15-a3e8-92ccf6846893">
-1. Abre tu proyecto en Android Studio.
+1. Open your project in Android Studio.
 
-2. Verifica que todas las dependencias estén correctamente configuradas.
+2. Verify that all dependencies are correctly configured.
 
-3. Haz clic en el botón "Build" para compilar tu aplicación.
+3. Click the "Build" button to compile your application.
 
-4. Una vez completada la compilación, selecciona un emulador o conecta un dispositivo físico.
+4. Once the compilation is complete, select an emulator or connect a physical device.
 
-5. Haz clic en el botón "Run" para ejecutar la aplicación en el emulador o dispositivo.
+5. Click the "Run" button to run the application on the emulator or device.
 
-Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo correctamente y que tu aplicación está libre de errores. ¡Disfruta de la compilación y ejecución de tu aplicación en Android Studio!
+Please note that these steps assume you have already set up your development environment correctly and that your application is free of errors. Enjoy compiling and running your application in Android Studio!
 
 
-## 📄 Compilación del Informe
-Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:<br>
+## 📄 Report Compilation
+If you wish to compile the report in Overleaf instead of on your local machine, you can follow these steps:<br>
 
 <img align="left" width="180" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/99e4704f-288b-4d9d-9f84-d85e5eb76967">
 
-1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
+1. Open your project in Overleaf (make sure you have created an account on Overleaf and imported your project there).
 
-2. Localiza el archivo "codelab.tex" en el proyecto en Overleaf.
+2. Locate the "codelab.tex" file in the project on Overleaf.
 
-3. Haz clic en el archivo "codelab.tex" para abrirlo en el editor de Overleaf.
+3. Click on the "codelab.tex" file to open it in the Overleaf editor.
 
-4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
+4. At the top of the editor, you will see a button called "Recompile" or "Compile" (it may vary depending on the version of Overleaf). Click on this button.
 
 
-## 🤝 Contribuciones
+## 🤝 Contributions
 <img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Plant-Kingdom-app/assets/90756437/673427a5-121a-4c77-bd0f-454e7dee2f74">
-Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.<br><br>
+If you would like to contribute to this report or make improvements, we invite you to do so. You can open issues or pull requests to collaborate on the report's development.<br><br>
 
-Por favor, contácteme si tiene preguntas o comentarios sobre el informe.
+Please feel free to contact me if you have any questions or comments about the report. 🚀
